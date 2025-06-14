@@ -1,0 +1,14 @@
+python -m streamlit run app.py
+
+run this in cmd(when all things done(very last step of the project))
+
+
+Things to Download:-
+
+1. streamlit
+2. joblib
+3. numpy
+4. pandas
+5. plotly
+6. folium
+7. streamlit-folium
